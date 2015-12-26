@@ -24,7 +24,7 @@
         android:textSize="25sp" />
 
     <TextView
-        android:text="hello koramangala"
+        android:text="@string/hello_koramangala"
         android:textColor="#4DB6AC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

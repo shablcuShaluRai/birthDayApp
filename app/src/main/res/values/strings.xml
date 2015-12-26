@@ -4,4 +4,6 @@
     <string name="abc">Anoop</string>
     <string name="login">Login</string>
     <string name="test">test</string>
+    <string name="hello_koramangala">hello koramangala</string>
+
 </resources>
