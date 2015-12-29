@@ -5,8 +5,13 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.shablcu.shalu.birthdayapp"
         minSdkVersion 15
+=======
+        applicationId "com.example.android.salu"
+        minSdkVersion 10
+>>>>>>> 8a2d04ff417d935997928bb31738737d2fc2392e
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -23,4 +28,8 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
+<<<<<<< HEAD
+=======
+    compile 'com.android.support:design:23.1.1'
+>>>>>>> 8a2d04ff417d935997928bb31738737d2fc2392e
 }

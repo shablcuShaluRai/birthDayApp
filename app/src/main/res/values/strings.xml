@@ -1,3 +1,13 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">birthdayapp</string>
+=======
+    <string name="app_name">Salu</string>
+    <string name="action_settings">Settings</string>
+    <string name="abc">Anoop</string>
+    <string name="login">Login</string>
+    <string name="test">test</string>
+    <string name="hello_koramangala">hello koramangala</string>
+
+>>>>>>> 8a2d04ff417d935997928bb31738737d2fc2392e
 </resources>

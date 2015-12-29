@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.shablcu.shalu.birthdayapp">
+=======
+    package="com.example.android.salu">
+>>>>>>> 8a2d04ff417d935997928bb31738737d2fc2392e
 
     <application
         android:allowBackup="true"
@@ -8,7 +12,14 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".MainActivity">
+=======
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+>>>>>>> 8a2d04ff417d935997928bb31738737d2fc2392e
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
